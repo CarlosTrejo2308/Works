@@ -20,14 +20,14 @@ int main(){
 	 
 	//Obteniedo valor al azar 
 	 number = getRandom(10);
-	 cout<<"He pensado un numeor entre el 1 y el 10..."<<endl<<"Puedes adivinarlo?\n\n";
+	 cout<<"He pensado un numero entre el 1 y el 10..."<<endl<<"Puedes adivinarlo?\n\n";
 	 
 	 //Pidiendo un numero
 	 
    //Insertar codigo aqui
    
 	 	//Fin
-	 	cout<<"Lo ha atinado en "<<retry<<" intentos!";
+	 	cout<<"Lo has adivinado en "<<retry<<" intentos!";
 
 }
 
