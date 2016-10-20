@@ -1,8 +1,8 @@
 #include <iostream>
 #include <cstdlib>
-#include <ctime>
+#include ;<ctime>
 
-using namespace std;
+using namespace std
 
 int getRandom(int x);
 
